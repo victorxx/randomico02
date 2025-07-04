@@ -111,7 +111,8 @@ a {
       "https://www.youtube.com/@victorfenix-s9o",
       "https://recomendadodia23.blogspot.com/",
       "https://brasilbrasileiross.blogspot.com/",
-      "https://dokehost.blogspot.com/"
+      "https://dokehost.blogspot.com/",
+      "https://arquivos.wuaze.com/conferir/"
     
     ];
 
